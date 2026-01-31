@@ -2,5 +2,3 @@
 
 # Obsidian configuration (managed by Fieldbook plugin)
 .obsidian/
-.fieldbook/
-!.fieldbook/data/
