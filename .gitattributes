@@ -1,0 +1,22 @@
+
+# Fieldbook: Prevent Git text merge (Yjs managed)
+*.md -merge
+*.txt -merge
+*.canvas -merge
+*.json -merge
+*.csv -merge
+*.html -merge
+*.css -merge
+*.js -merge
+*.ts -merge
+*.jsx -merge
+*.tsx -merge
+*.xml -merge
+*.yml -merge
+*.yaml -merge
+*.svg -merge
+*.tex -merge
+*.org -merge
+*.bib -merge
+*.scss -merge
+*.sass -merge
